@@ -12,6 +12,7 @@ public class Task_13_Sept {
         System.out.printf("%d x %d  = %d",num,2,num*2);
         System.out.println();
         System.out.printf("%d x %d  = %d",num,3,num*3);
+        System.out.println();
 
         // Task 2: Simple calculator
         double a = 34;
