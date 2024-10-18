@@ -9,6 +9,7 @@ public class Lab153_Static {
         System.out.println(Student.school_name);
         Student.school_name = "XYZ";
         System.out.println(Student.school_name);
+        System.out.println(s1.school_name);
 
     }
 }
