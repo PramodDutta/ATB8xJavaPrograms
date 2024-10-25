@@ -20,6 +20,9 @@ public class Lab174_Exception {
 
         System.out.println("End");
 
+//        Integer.parseInt() // String to Integer
+//        Integer.valueOf() // Int -> Int, String, Integer
+
 
     }
 }
